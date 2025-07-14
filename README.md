@@ -1,16 +1,31 @@
-# profile
+# 📷 Profile Picture Updater with Camera, Geolocation & Vibration
 
-A new Flutter project.
+This project is a simple web or mobile application that allows users to:
 
-## Getting Started
+- Take a profile picture using the device camera
+- Automatically fetch the user's current geolocation (latitude and longitude)
+- Save the location data in the device's `localStorage`
+- Trigger a vibration on the device when a picture is taken (if supported)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Camera Access** – Capture a photo directly from the device's camera
+- **Geolocation** – Fetch and store the user's location in `localStorage`
+- **Vibration API** – Vibrates the device when a picture is successfully taken
+- **Local Storage** – Save and persist profile picture and location data locally
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+  - Flutter
+  - Dart
+
+---
+
+## 📦 How to Use
+
+1. Open the app in mobile environment.
+2. Allow camera and location permissions when prompted.
+3. Click
