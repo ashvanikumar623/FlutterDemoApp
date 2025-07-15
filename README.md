@@ -24,6 +24,12 @@ This project is a simple web or mobile application that allows users to:
 
 ---
 
+## Version
+  - Flutter : 3.32.6
+  - Dart : 3.8.1
+ 
+---
+
 ## 📦 How to Use
 
 1. Open the app in mobile environment.
